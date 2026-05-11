@@ -10,6 +10,7 @@ namespace ConsoleApp36
     {
         static void Main(string[] args)
         {
+            string ola;
         }
     }
 }
